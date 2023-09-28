@@ -33,5 +33,5 @@ This is a simple Django Rest Framework (DRF) application for managing tasks in a
 - Bulk Delete Completed Tasks: `DELETE /api/tasks/delete_tasks/` - Bulk delete completed tasks. Send a list of task IDs as taskIds in the request body.
 
 ## Usage
-- Use frontend application created for this project https://github.com/GiorgiTarsaidze/todo-server
+- Use frontend application created for this project: https://github.com/GiorgiTarsaidze/todo-client
 - You can interact with the API using tools like **curl** or **Postman**, creating a frontend application to consume the API endpoints or directly with DRF GUI.
